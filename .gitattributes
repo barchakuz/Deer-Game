@@ -5,3 +5,8 @@
 *.html linguist-detectable=false
 *.css linguist-detectable=false 
 *.xml linguist-detectable=false 
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+
+CONTRIBUTORS.md merge=union
